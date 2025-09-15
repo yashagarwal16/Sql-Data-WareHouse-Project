@@ -14,7 +14,7 @@ WARNING:
 */
 
 USE master;
-GO
+GO           --GO in SQL Seprate Batches when Working with multiple SQL Statement.
 
 -- Drop and recreate the 'DataWarehouse' database
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse')
@@ -33,7 +33,7 @@ GO
 
 -- Create Schemas
 CREATE SCHEMA bronze;
-GO
+GO                         
 
 CREATE SCHEMA silver;
 GO
