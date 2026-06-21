@@ -1,1 +1,10 @@
-
+[
+  {
+    "item":"Sql-Data-WareHouse-Project/refs/heads/main/dataset/source_crm/cust_info.csv",
+    "file":"cust_info.csv"
+  },
+  {
+    "item":"Sql-Data-WareHouse-Project/refs/heads/main/dataset/source_erp/CUST_AZ12.csv",
+    "file":"CUST_AZ12.csv"
+  }
+]
