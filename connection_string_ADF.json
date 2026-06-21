@@ -6,10 +6,7 @@
   {
     "item_url":"Sql-Data-WareHouse-Project/refs/heads/main/dataset/source_erp/CUST_AZ12.csv",
     "file_name":"CUST_AZ12.csv"
-  }
-]
-
-[
+  },
   {
     "Table_name":"PX_CAT_G1V2",
     "File_name":"PX_CAT_G1V2"
